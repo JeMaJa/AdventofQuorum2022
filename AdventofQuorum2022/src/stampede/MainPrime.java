@@ -7,7 +7,7 @@
  * 
  */
 
-package test;
+package stampede;
 
 public class MainPrime {
 

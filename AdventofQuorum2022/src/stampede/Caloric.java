@@ -7,7 +7,7 @@
  * 
  */
 
-package test;
+package stampede;
 import java.io.*;  
 import java.util.Scanner;  
 public class Caloric {
